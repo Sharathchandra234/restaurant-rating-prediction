@@ -21,7 +21,7 @@ Built using **Python, Scikit-Learn, FastAPI, and Streamlit**.
 ## 🖥️ Demo
 
 ### Streamlit App
-_Add your deployed Streamlit link here_
+http://localhost:8501/
 
 ### FastAPI Swagger Docs
 
