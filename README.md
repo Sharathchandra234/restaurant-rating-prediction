@@ -19,6 +19,10 @@ Example:
 ```bash
 https://restaurant-rating-predictor.streamlit.app
 
+
+FastAPI Swagger Docs
+http://127.0.0.1:8000/docs
+
 📌 Project Overview
 
 This project predicts restaurant ratings using Machine Learning based on restaurant features such as:
